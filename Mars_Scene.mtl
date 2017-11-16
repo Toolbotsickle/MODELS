@@ -1,0 +1,26 @@
+newmtl blinn1SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd blinn1SG_Diffuse.jpg
+bump blinn1SG_Height.jpg -bm 0.1
+Ni 1.00
+Ks 1.00 1.00 1.00
+newmtl blinn4SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd blinn2SG_Diffuse.jpg
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Ks blinn2SG_Specular.jpg
+newmtl lambert4SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd lambert3SG_Diffuse.jpg
+bump lambert3SG_Height.jpg -bm 0.5
+Ni 1.00
